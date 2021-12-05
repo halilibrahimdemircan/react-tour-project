@@ -68,7 +68,7 @@ export const data = [
   },
   {
     id: 11,
-    title: "Arashiyama Bamboo Grove",
+    title: "Arashiyama Grove",
     desc: "Bamboo Forest, or Arashiyama Bamboo Grove or Sagano Bamboo Forest, is a natural forest of bamboo in Arashiyama, Kyoto, Japan. The forest consists mostly of Moso Bamboo (Phyllostachys edulis) and consists of several pathways for tourists and visitors. The Ministry of the Environment considers it a part of the soundscape of Japan.",
     image: "https://wallpaperaccess.com/full/534182.jpg",
   },
